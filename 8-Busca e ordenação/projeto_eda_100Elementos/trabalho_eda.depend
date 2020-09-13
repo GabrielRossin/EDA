@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1575664821 source:c:\users\gabri\desktop\trabalho_eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"prototipos.h"
+
+1575664821 source:c:\users\gabri\desktop\trabalho_eda\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"prototipos.h"
+
+1575664821 c:\users\gabri\desktop\trabalho_eda\prototipos.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571356797 source:c:\users\usuário\desktop\tad_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1571337209 c:\users\usuário\desktop\tad_fila\prototipos.h
+
+1571356879 source:c:\users\usuário\desktop\tad_fila\funções.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+

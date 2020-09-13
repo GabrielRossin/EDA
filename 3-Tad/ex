@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct num1_complexo
+{
+      float r;
+      float imaginario;
+}num[3];
+
+num* criar(*num)
+{
+    int i;
+    num* n
+
+    n = (num*) malloc(sizeof(num));
+
+    if (n != NULL)
+    {
+        for(i = 0; i < 2; i++)
+        {
+          printf("\nInsira um numero:");
+          scanf("%f",&num[i].r );
+          printf("\nInsira um numero:");
+          scanf("%f",&num[i].imaginario );
+        }
+
+    }
+    return n;
+
+}
+
+void libera(num *n)
+{
+
+    free(n);
+
+}
+void somar(num n)
+{
+    float resulReal;
+    float resulImaginario;
+
+    resulReal = n[0].r + n[0].r;
+    resulImaginario = n[1].imaginario + n[0].imaginario;
+    printf ("%f + %fi", resulReal, resulImaginario);
+}

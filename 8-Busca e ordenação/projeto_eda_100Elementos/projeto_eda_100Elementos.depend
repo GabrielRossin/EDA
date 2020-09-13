@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1575664821 source:c:\users\gabri\desktop\trabalho_eda\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"prototipos.h"
+
+1575664821 c:\users\gabri\desktop\trabalho_eda\prototipos.h
+
+1575665361 source:c:\users\gabri\desktop\trabalho_eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"prototipos.h"
+
+1575665431 source:c:\users\gabri\documents\github\eda\8-busca e ordenação\projeto_eda_100elementos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"prototipos.h"
+
+1575664821 c:\users\gabri\documents\github\eda\8-busca e ordenação\projeto_eda_100elementos\prototipos.h
+
+1576238487 source:c:\users\gabri\documents\github\eda\8-busca e ordenação\projeto_eda_100elementos\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"prototipos.h"
+

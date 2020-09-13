@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572997997 source:c:\users\usuário\desktop\tad_arvore\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1572997896 source:c:\users\usuário\desktop\tad_arvore\funções.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipos.h"
+
+1572997870 c:\users\usuário\desktop\tad_arvore\prototipos.h
+

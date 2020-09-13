@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571255707 source:c:\users\usuário\desktop\tad_lista_dupla\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1571255912 source:c:\users\usuário\desktop\tad_lista_dupla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1571255712 c:\users\usuário\desktop\tad_lista_dupla\prototipos.h
+

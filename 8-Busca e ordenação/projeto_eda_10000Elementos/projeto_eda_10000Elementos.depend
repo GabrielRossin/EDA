@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1575662715 source:c:\users\gabri\desktop\projeto_eda_10000elementos\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"prototipos.h"
+
+1575662715 c:\users\gabri\desktop\projeto_eda_10000elementos\prototipos.h
+

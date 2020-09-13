@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1571278702 source:c:\users\usuário\desktop\tad_circular\funções.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1571278370 source:c:\users\usuário\desktop\tad_circular\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prototipos.h"
+
+1571279795 c:\users\usuário\desktop\tad_circular\prototipos.h
+
